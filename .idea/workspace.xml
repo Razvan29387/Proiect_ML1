@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d7072102-0707-4f3f-9a2e-f1f498c14e47" name="Changes" comment="modificari proiect">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/proiect.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/proiect.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -48,6 +49,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
@@ -73,6 +75,13 @@
       <workItem from="1746644901780" duration="4482000" />
       <workItem from="1746651286408" duration="745000" />
       <workItem from="1746715176795" duration="50000" />
+      <workItem from="1747130401400" duration="3074000" />
+      <workItem from="1747292561968" duration="1107000" />
+      <workItem from="1747412466546" duration="3672000" />
+      <workItem from="1747418964914" duration="1346000" />
+      <workItem from="1747420811109" duration="3103000" />
+      <workItem from="1747424348078" duration="303000" />
+      <workItem from="1747509666692" duration="4898000" />
     </task>
     <task id="LOCAL-00001" summary="modificari proiect">
       <option name="closed" value="true" />
@@ -82,7 +91,15 @@
       <option name="project" value="LOCAL" />
       <updated>1746544527249</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="modificari proiect">
+      <option name="closed" value="true" />
+      <created>1747424362647</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1747424362647</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -91,5 +108,16 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="modificari proiect" />
     <option name="LAST_COMMIT_MESSAGE" value="modificari proiect" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/proiect.ipynb</url>
+          <line>1</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
